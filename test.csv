@@ -1,0 +1,5 @@
+L,Category,UserStory,Type,ModuleID,Title,VerifiedInVersion,QuickstartID,Comments,Jira
+1,using-nebel,,assembly,using-nebel,Using nebel to generate Asciidoc files,,,,
+2,using-nebel,,procedure,setting-up,Setting up your laptop to run nebel,,,,
+3,using-nebel,,procedure,setting-up-python,Setting your python version,"","","",""
+3,using-nebel,"",procedure,setting-up-nebel,Installing nebel,"","","",""
