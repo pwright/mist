@@ -1,7 +1,8 @@
 // Metadata created by nebel
 //
 // QuickstartID: 
-// ParentAssemblies: assemblies/using-nebel/as_using-nebel.adoc
+// Level: 2
+// ParentAssemblies: generated-master.adoc
 // UserStory: 
 // VerifiedInVersion: 
 
